@@ -85,8 +85,6 @@ Python · Pandas · NumPy · Scikit-learn · XGBoost · Matplotlib · Seaborn ·
 ```text
 early-hospital-readmission-prediction/
 ├── early_hospital_readmission_prediction.ipynb
-├── train_df.csv
-├── test_df.csv
 └── README.md
 ```
 
